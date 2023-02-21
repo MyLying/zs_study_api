@@ -31,6 +31,7 @@ app.use(function (req, res, next) {
     next()
 })
 
+// TEST
 
 //导入并使用用户路由模块
 app.use('/API_cms_DB', require('./router/cms_DB'))
