@@ -6,7 +6,7 @@ const {
 
 //创建express的服务器实例
 const app = express()
-
+// test
 //导入cors中间件
 const cors = require('cors')
 //将cors注册为全局中间件
